@@ -1,4 +1,4 @@
-This repository contains the documentation used to train Robotic club members in the use of Arduino board. 
+This repository contains the documentation used to train Robotic club members of Escuela Politécnica Nacional in the use of Arduino board. 
 
 ## Course
 
