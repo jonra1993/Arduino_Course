@@ -5,14 +5,14 @@ This repository contains the documentation used to train Robotic club members of
 The course has been divided in sections each one was compose of an theory and practice. The folders contain example activities with it respectively code and a pdf with documentation in spanish.
 
 <p align="center">
-  <img height="400" width="800" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/arduino_course_1.png">
+  <img height="400" width="800" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398528/wordpress_Jonathan/arduino_course_1.png">
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img height="400" width="800" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/arduino_course_2.png">
+  <img height="400" width="800" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398527/wordpress_Jonathan/arduino_course_2.png">
 </p>
 
 
